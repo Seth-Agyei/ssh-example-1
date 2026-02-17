@@ -15,3 +15,11 @@ skilled in bulding scalable RESTFUL and GraphQL APIs
 •	Git & Github
 •	Clean Code & SOLID Principles
 
+### Soft Skills
+•	Analytical & Problem-Solving Mindset
+•	Strong Communication Skills
+•	Continues Learning & Self-Driven
+•	Attention to Details
+•	Mentorship & Teaching Ability
+•	Team Collaboration
+•	Adaptability & Growth-Oriented Thinking
