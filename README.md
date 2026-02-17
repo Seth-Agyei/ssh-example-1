@@ -22,4 +22,4 @@ skilled in bulding scalable RESTFUL and GraphQL APIs
 •	Attention to Details
 •	Mentorship & Teaching Ability
 •	Team Collaboration
-•	Adaptability & Growth-Oriented Thinking
+•	Adaptability & Growth-Oriented Thinkingg
